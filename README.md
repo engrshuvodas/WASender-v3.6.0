@@ -94,7 +94,7 @@
 <!-- YouTube Channel Screenshot Preview (Full-width Image) -->
 <div style="max-width: 720px; margin: 0 auto 20px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 12px; overflow: hidden;">
   <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: block;">
-    <img src="./img/WASendX_youtube_channel_screenshot.png" 
+    <img src="./img/WASendX youtube.png" 
          alt="WaSendX YouTube Channel Preview" 
          style="width: 100%; height: auto; display: block; object-fit: cover;">
   </a>
