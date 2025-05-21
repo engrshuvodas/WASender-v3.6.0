@@ -74,10 +74,11 @@
 
 <!-- Fiverr Review Image linked to Fiverr gig -->
 <p style="margin-top: 10px;">
-  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="display: inline-block; max-width: 250px;">
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="display: inline-block; max-width: 180px;">
     <img src="./img/fiverr-review.png" alt="Fiverr Reviews" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
+
 
 <h3>📩 Stay Connected</h3>
 <p>
