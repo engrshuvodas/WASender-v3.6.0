@@ -96,7 +96,7 @@
   <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: block;">
     <img src="./img/WASendX youtube.png" 
          alt="WaSendX YouTube Channel Preview" 
-         style="width: 100%; height: auto; display: block; object-fit: cover;">
+         style="width: 80%; height: auto; display: block; object-fit: cover;">
   </a>
 </div>
 
