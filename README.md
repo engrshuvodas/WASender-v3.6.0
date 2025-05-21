@@ -83,7 +83,12 @@
 <h3>📩 Stay Connected</h3>
 <p>
   Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank" rel="noopener noreferrer">@engrshuvo74886</a><br>
-  YouTube: <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer">@engr_shuvo</a>
+  YouTube: 
+  <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
+    <img src="./img/WASendX youtube.png" alt="WaSendX YouTube Channel" style="width: 30px; height: 30px; border-radius: 50%; object-fit: cover; box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
+    @engr_shuvo
+  </a>
 </p>
+
 
 <h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
