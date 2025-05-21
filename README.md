@@ -1,94 +1,100 @@
 <!-- Highlighted Free Trial Section -->
-<div style="background-color: #e6f7ff; border-left: 6px solid #00bfff; padding: 10px; margin-bottom: 20px;">
-  <h2 style="margin: 0; color: #007acc;">🎉 <strong>Free Trial Available!</strong></h2>
-  <p style="margin: 5px 0 0 0;">Try WaSender absolutely free before you buy. No risk, just results! 💼✨</p>
+<div style="background-color: #e6f7ff; border-left: 6px solid #00bfff; padding: 15px 20px; margin-bottom: 30px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 191, 255, 0.2);">
+  <h2 style="margin: 0; color: #007acc; font-weight: 700; font-size: 1.8rem;">🎉 <strong>Free Trial Available!</strong></h2>
+  <p style="margin: 8px 0 0 0; font-size: 1.1rem; color: #005f99;">Try WaSender completely free before you buy — No risk, just real results! 💼✨</p>
 </div>
 
-<h2>🚀 WaSender v3.6.0 - Powerful WhatsApp Marketing Software</h2>
+<h2 style="font-size: 2rem; color: #004a99; margin-bottom: 15px;">🚀 WaSender v3.6.0 — Powerful WhatsApp Marketing Software</h2>
 
-<p>
-  WaSender is an advanced WhatsApp Marketing solution designed for businesses, marketers, and agencies who want to send unlimited bulk messages using one or multiple WhatsApp accounts.
+<p style="font-size: 1.1rem; line-height: 1.6; color: #333;">
+  WaSender is an advanced WhatsApp marketing solution built for businesses, digital marketers, and agencies aiming to send unlimited bulk messages using single or multiple WhatsApp accounts effortlessly.
   <br><br>
-  With automated group joining, lead extraction tools, and personalized message sending, WaSender simplifies and supercharges your marketing workflow.
+  With smart automated group joining, lead extraction tools, and personalized messaging, WaSender streamlines and boosts your marketing campaigns — making your workflow efficient and highly productive.
 </p>
 
-<h3>✨ Key Features</h3>
-<ul>
-  <li>✅ Send Unlimited Bulk Messages</li>
-  <li>✅ Use Multiple WhatsApp Accounts Simultaneously</li>
-  <li>✅ Import Contacts from Excel (Saved or Unsaved)</li>
-  <li>✅ Auto-Join Targeted WhatsApp Groups</li>
-  <li>✅ Extract All Group Members’ Contacts</li>
-  <li>✅ Send Individual Personalized Messages</li>
-  <li>✅ Built-in Lead Extraction from Google Maps & Social Media</li>
-  <li>✅ Human-like Automation to Avoid Ban</li>
-  <li>✅ Real-Time Campaign Reports</li>
-  <li>✅ Built-in License Key System for Resellers</li>
+<h3 style="color: #007acc; margin-top: 30px;">✨ Key Features</h3>
+<ul style="font-size: 1.05rem; line-height: 1.5; color: #222;">
+  <li>✅ Unlimited Bulk Messaging</li>
+  <li>✅ Multi WhatsApp Account Support</li>
+  <li>✅ Import Contacts from Excel (Saved/Unsaved)</li>
+  <li>✅ Automated Group Joining & Lead Extraction</li>
+  <li>✅ Personalized Message Sending</li>
+  <li>✅ Lead Extraction from Google Maps & Social Media</li>
+  <li>✅ Human-like Automation to Avoid WhatsApp Ban</li>
+  <li>✅ Real-Time Campaign Reporting</li>
+  <li>✅ License Key System for Resellers</li>
 </ul>
 
-<h3>🖼️ Sneak Peek</h3>
-<p>
-  Here's a preview of WaSender v3.6.0 in action 👇
-</p>
+<h3 style="color: #007acc; margin-top: 35px;">🖼️ Sneak Peek</h3>
+<p style="font-size: 1.05rem; margin-bottom: 15px;">Check out WaSender v3.6.0 in action below 👇</p>
 
-<img src="./img/WASENDER msg send section.png" alt="WaSender Software Preview" style="width: 90%; max-width: 700px; margin-bottom: 15px;">
-<img src="./img/WASENDER all tools.png" alt="WaSender Software Preview" style="width: 90%; max-width: 700px; margin-bottom: 25px;">
+<img src="./img/WASENDER msg send section.png" alt="WaSender Software Preview" style="width: 90%; max-width: 700px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
+<img src="./img/WASENDER all tools.png" alt="WaSender Software Tools Overview" style="width: 90%; max-width: 700px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 30px;">
 
-<h3>💼 Who Can Use This?</h3>
-<ul>
-  <li>📢 Digital Marketers</li>
-  <li>🛍️ E-commerce Sellers</li>
+<h3 style="color: #007acc;">💼 Who Can Benefit?</h3>
+<ul style="font-size: 1.05rem; color: #222;">
+  <li>📢 Digital Marketers & Advertisers</li>
+  <li>🛍️ E-commerce Sellers & Retailers</li>
   <li>🏢 Small & Medium Businesses</li>
-  <li>👨‍🏫 Coaches, Trainers, and Consultants</li>
-  <li>🤝 Lead Generators and Agencies</li>
+  <li>👨‍🏫 Coaches, Trainers & Consultants</li>
+  <li>🤝 Lead Generation Specialists & Agencies</li>
 </ul>
 
-<h3>⚙️ How to Use</h3>
-<ol>
-  <li>Download the software on your Windows 10 or 11 system</li>
-  <li>Import your contact list from Excel</li>
-  <li>Connect one or more WhatsApp accounts</li>
-  <li>Customize your message content</li>
-  <li>Start sending campaigns instantly</li>
+<h3 style="color: #007acc; margin-top: 30px;">⚙️ How to Get Started</h3>
+<ol style="font-size: 1.05rem; color: #222; line-height: 1.5;">
+  <li>Download WaSender on your Windows 10 or 11 PC</li>
+  <li>Import your contacts list via Excel</li>
+  <li>Connect one or multiple WhatsApp accounts</li>
+  <li>Create & customize your marketing messages</li>
+  <li>Launch your campaign instantly and track results</li>
 </ol>
 
-<h3>📌 Important Notes</h3>
-<ul>
-  <li>Numbers must include the country code. Example: Use 1415xxxxxxx (USA), not 415xxxxxxx.</li>
-  <li>This software is compatible only with <strong>Windows 10 & 11</strong>.</li>
+<h3 style="color: #007acc; margin-top: 30px;">📌 Important Notes</h3>
+<ul style="font-size: 1.05rem; color: #222;">
+  <li>Please include country codes with numbers (e.g., 1415xxxxxxx for USA, not 415xxxxxxx)</li>
+  <li>This software is compatible only with <strong>Windows 10 & 11</strong></li>
 </ul>
 
-<h3>📥 Want the Full Version?</h3>
-<p>
-  To activate WaSender or get full access to the software, contact me on WhatsApp:<br>
-  <mark><strong>+8801765245872</strong></mark>
+<h3 style="color: #007acc; margin-top: 35px;">📥 Want the Full Version?</h3>
+<p style="font-size: 1.1rem; color: #333;">
+  To activate WaSender or get full access, contact me directly on WhatsApp:<br>
+  <mark style="background-color: #00bfff; color: white; padding: 3px 10px; border-radius: 5px; font-weight: 700;">+8801765245872</mark>
 </p>
 
-<p style="margin-top: 30px;">
-  🌍 <strong>Trusted by international clients!</strong><br>
-  ⭐ See real reviews and place your order with confidence:<br>
-  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#0a66c2; text-decoration: none;">
+<p style="margin-top: 40px; font-size: 1.1rem; color: #004a99; font-weight: 700;">
+  🌍 Trusted by International Clients!<br>
+  ⭐ See real reviews and order confidently:<br>
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="color: #0a66c2; font-weight: 700; text-decoration: none;">
     🔗 Visit My Fiverr Gig
   </a>
 </p>
 
 <!-- Fiverr Review Image linked to Fiverr gig -->
-<p style="margin-top: 10px;">
-  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="display: inline-block; max-width: 180px;">
-    <img src="./img/fiverr-review.png" alt="Fiverr Reviews" style="width: 50%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<p style="margin-top: 15px;">
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="display: inline-block; max-width: 200px;">
+    <img src="./img/fiverr-review.png" alt="Fiverr Reviews" style="width: 100%; border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.18); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
+<hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;">
 
-<h3>📩 Stay Connected</h3>
-<p>
-  Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank" rel="noopener noreferrer">@engrshuvo74886</a><br>
-  YouTube: 
-  <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
-    <img src="./img/WASendX youtube.png" alt="WaSendX YouTube Channel" style="width: 50%; height: 50%; border-radius: 50%; object-fit: cover; box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
-    @engr_shuvo
-  </a>
-</p>
+<h3 style="color: #007acc; margin-bottom: 15px;">📩 Stay Connected with Me</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
 
+  <div style="font-size: 1.1rem; color: #333;">
+    <strong>Instagram:</strong> 
+    <a href="https://www.instagram.com/engrshuvo74886/" target="_blank" rel="noopener noreferrer" style="color: #e1306c; font-weight: 600; text-decoration: none;">
+      @engrshuvo74886
+    </a>
+  </div>
 
-<h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; text-decoration: none; background: #ff0000; padding: 8px 15px; border-radius: 30px; box-shadow: 0 4px 12px rgba(255,0,0,0.3); transition: background 0.3s ease;">
+      <img src="./img/WASendX youtube.png" alt="WaSendX YouTube Channel" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
+      <span style="color: white; font-weight: 700; font-size: 1.15rem;">@engr_shuvo</span>
+    </a>
+  </div>
+
+</div>
+
+<h4 style="margin-top: 45px; font-weight: 600; color: #555;">🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
