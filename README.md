@@ -64,11 +64,18 @@
   <mark><strong>+8801765245872</strong></mark>
 </p>
 
-<p>
+<p style="margin-top: 30px;">
   🌍 <strong>Trusted by international clients!</strong><br>
   ⭐ See real reviews and place your order with confidence:<br>
-  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#0a66c2;">
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#0a66c2; text-decoration: none;">
     🔗 Visit My Fiverr Gig
+  </a>
+</p>
+
+<!-- Fiverr Review Image linked to Fiverr gig -->
+<p style="margin-top: 10px;">
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="display: inline-block; max-width: 320px;">
+    <img src="./img/fiverr-review.png" alt="Fiverr Reviews" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
