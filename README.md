@@ -1,14 +1,66 @@
-<p>This software is mainly used to send <strong>Bulk Messages</strong> (no limit) from one or multiple <strong>WhatsApp accounts</strong> (no limit) using contact numbers (saved or unsaved) from an Excel file.</p>
+<h2>🚀 WaSender v3.6.0 - Powerful WhatsApp Marketing Software</h2>
 
-<p>You can also find your target audience’s <strong>WhatsApp Groups</strong>, automatically join them, extract all member contacts, and send individual messages with ease. In addition, the software includes extra tools to streamline your WhatsApp marketing process.</p>
+<p>
+WaSender is an advanced WhatsApp Marketing solution designed for businesses, marketers, and agencies who want to send unlimited bulk messages using one or multiple WhatsApp accounts.
+<br><br>
+With automated group joining, lead extraction tools, and personalized message sending, WaSender simplifies and supercharges your marketing workflow.
+</p>
 
-<p>For example, you’ll find tools to extract leads from social media platforms and Google Maps. These tools allow you to collect complete details of any person or company you find, including their <strong>Name</strong>, <strong>Phone Number</strong>, <strong>Email</strong>, <strong>Website</strong>, and <strong>Social Media Links</strong>.</p>
+<h3>✨ Key Features</h3>
+<ul>
+  <li>✅ Send Unlimited Bulk Messages</li>
+  <li>✅ Use Multiple WhatsApp Accounts Simultaneously</li>
+  <li>✅ Import Contacts from Excel (Saved or Unsaved)</li>
+  <li>✅ Auto-Join Targeted WhatsApp Groups</li>
+  <li>✅ Extract All Group Members’ Contacts</li>
+  <li>✅ Send Individual Personalized Messages</li>
+  <li>✅ Built-in Lead Extraction from Google Maps & Social Media</li>
+  <li>✅ Human-like Automation to Avoid Ban</li>
+  <li>✅ Real-Time Campaign Reports</li>
+  <li>✅ Built-in License Key System for Resellers</li>
+</ul>
 
-<p>Once collected, you can run targeted campaigns on these leads and perform follow-ups to generate repeat sales — helping you grow your business faster and more effectively.</p>
+<h3>🖼️ Sneak Peek</h3>
+<p>
+  Here's a preview of WaSender v3.6.0 in action 👇
+</p>
 
-<p><strong>Note:</strong> This software is desktop-based and only compatible with <strong>Windows 10 & 11</strong>.</p>
+<img src="wasender-demo.png" alt="WaSender Software Preview" width="100%">
 
-<p><strong>Important:</strong> The phone numbers used in campaigns must include the correct country code.<br>
-Example: Instead of 415xxxxxxx, use 1415xxxxxxx (for USA numbers).</p>
+<h3>💼 Who Can Use This?</h3>
+<ul>
+  <li>📢 Digital Marketers</li>
+  <li>🛍️ E-commerce Sellers</li>
+  <li>🏢 Small & Medium Businesses</li>
+  <li>👨‍🏫 Coaches, Trainers, and Consultants</li>
+  <li>🤝 Lead Generators and Agencies</li>
+</ul>
 
-<p><strong>To activate the software, contact on WhatsApp:</strong> <mark>+8801765245872</mark></p>
+<h3>⚙️ How to Use</h3>
+<ol>
+  <li>Download the software on your Windows 10 or 11 system</li>
+  <li>Import your contact list from Excel</li>
+  <li>Connect one or more WhatsApp accounts</li>
+  <li>Customize your message content</li>
+  <li>Start sending campaigns instantly</li>
+</ol>
+
+<h3>📌 Important Notes</h3>
+<ul>
+  <li>Numbers must include the country code. Example: Use 1415xxxxxxx (USA), not 415xxxxxxx.</li>
+  <li>This software is compatible only with <strong>Windows 10 & 11</strong>.</li>
+</ul>
+
+<h3>📥 Want the Full Version?</h3>
+<p>
+  To activate WaSender or get full access to the software, contact me on WhatsApp:<br>
+  <mark><strong>+8801765245872</strong></mark>
+</p>
+
+<h3>📩 Stay Connected</h3>
+<p>
+  Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank">@engrshuvo74886</a><br>
+  YouTube: <a href="https://www.youtube.com/@engrshuvo" target="_blank">@engrshuvo</a>
+</p>
+
+<h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
