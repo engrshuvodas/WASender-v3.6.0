@@ -25,7 +25,7 @@ With automated group joining, lead extraction tools, and personalized message se
   Here's a preview of WaSender v3.6.0 in action 👇
 </p>
 
-<img src="wasender-demo.png" alt="WaSender Software Preview" width="100%">
+<img src="./img/WASENDER msg send section.png" alt="WaSender Software Preview" width="100%">
 
 <h3>💼 Who Can Use This?</h3>
 <ul>
@@ -60,7 +60,7 @@ With automated group joining, lead extraction tools, and personalized message se
 <h3>📩 Stay Connected</h3>
 <p>
   Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank">@engrshuvo74886</a><br>
-  YouTube: <a href="https://www.youtube.com/@engrshuvo" target="_blank">@engrshuvo</a>
+  YouTube: <a href="https://www.youtube.com/@engr_shuvo" target="_blank">@engr_shuvo</a>
 </p>
 
 <h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
