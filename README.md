@@ -1,1 +1,1 @@
-# WASender-Tools
+WASender-v3.6.0
