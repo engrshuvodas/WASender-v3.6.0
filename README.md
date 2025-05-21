@@ -88,12 +88,26 @@
     </a>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; text-decoration: none; background: #ff0000; padding: 8px 15px; border-radius: 30px; box-shadow: 0 4px 12px rgba(255,0,0,0.3); transition: background 0.3s ease;">
-      <img src="./img/WASendX youtube.png" alt="WaSendX YouTube Channel" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
-      <span style="color: white; font-weight: 700; font-size: 1.15rem;">@engr_shuvo</span>
-    </a>
-  </div>
+ <!-- YouTube Channel Showcase -->
+<h3 style="color: #007acc; margin-bottom: 15px;">📺 Check Out My YouTube Channel</h3>
+
+<!-- YouTube Channel Screenshot Preview (Full-width Image) -->
+<div style="max-width: 720px; margin: 0 auto 20px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 12px; overflow: hidden;">
+  <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer" style="display: block;">
+    <img src="./img/WASendX_youtube_channel_screenshot.png" 
+         alt="WaSendX YouTube Channel Preview" 
+         style="width: 100%; height: auto; display: block; object-fit: cover;">
+  </a>
+</div>
+
+<!-- YouTube Channel Link Button -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer"
+     style="display: inline-block; background-color: #FF0000; color: white; font-weight: 700; font-size: 1.2rem; padding: 12px 28px; border-radius: 30px; text-decoration: none; box-shadow: 0 6px 15px rgba(255,0,0,0.3); transition: background-color 0.3s ease;">
+    ▶️ Visit My YouTube Channel: @engr_shuvo
+  </a>
+</div>
+
 
 </div>
 
