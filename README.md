@@ -1,9 +1,15 @@
+<!-- Highlighted Free Trial Section -->
+<div style="background-color: #e6f7ff; border-left: 6px solid #00bfff; padding: 10px; margin-bottom: 20px;">
+  <h2 style="margin: 0; color: #007acc;">🎉 <strong>Free Trial Available!</strong></h2>
+  <p style="margin: 5px 0 0 0;">Try WaSender absolutely free before you buy. No risk, just results! 💼✨</p>
+</div>
+
 <h2>🚀 WaSender v3.6.0 - Powerful WhatsApp Marketing Software</h2>
 
 <p>
-WaSender is an advanced WhatsApp Marketing solution designed for businesses, marketers, and agencies who want to send unlimited bulk messages using one or multiple WhatsApp accounts.
-<br><br>
-With automated group joining, lead extraction tools, and personalized message sending, WaSender simplifies and supercharges your marketing workflow.
+  WaSender is an advanced WhatsApp Marketing solution designed for businesses, marketers, and agencies who want to send unlimited bulk messages using one or multiple WhatsApp accounts.
+  <br><br>
+  With automated group joining, lead extraction tools, and personalized message sending, WaSender simplifies and supercharges your marketing workflow.
 </p>
 
 <h3>✨ Key Features</h3>
@@ -58,10 +64,18 @@ With automated group joining, lead extraction tools, and personalized message se
   <mark><strong>+8801765245872</strong></mark>
 </p>
 
+<p>
+  🌍 <strong>Trusted by international clients!</strong><br>
+  ⭐ See real reviews and place your order with confidence:<br>
+  <a href="https://www.fiverr.com/s/VYZLokm" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#0a66c2;">
+    🔗 Visit My Fiverr Gig
+  </a>
+</p>
+
 <h3>📩 Stay Connected</h3>
 <p>
-  Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank">@engrshuvo74886</a><br>
-  YouTube: <a href="https://www.youtube.com/@engr_shuvo" target="_blank">@engr_shuvo</a>
+  Instagram: <a href="https://www.instagram.com/engrshuvo74886/" target="_blank" rel="noopener noreferrer">@engrshuvo74886</a><br>
+  YouTube: <a href="https://www.youtube.com/@engr_shuvo" target="_blank" rel="noopener noreferrer">@engr_shuvo</a>
 </p>
 
 <h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
