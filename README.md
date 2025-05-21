@@ -58,7 +58,9 @@
 <h3>📥 Want the Full Version?</h3>
 <p>
   To activate WaSender or get full access, contact me directly on WhatsApp:<br>
-  <mark>+8801765245872</mark>
+  <a href="https://wa.me/+8801765245872" target="_blank">
+    <mark>+8801765245872</mark>
+  </a>
 </p>
 
 <p>
@@ -98,4 +100,6 @@
   </a>
 </p>
 
-<h4>🧑‍💻 Developed with dedication by Engr Shuvo Das</h4>
+<h4>🧑‍💻 Developed with dedication by 
+  <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Engr Shuvo Das</a>
+</h4>
