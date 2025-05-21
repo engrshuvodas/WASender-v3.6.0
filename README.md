@@ -26,6 +26,7 @@ With automated group joining, lead extraction tools, and personalized message se
 </p>
 
 <img src="./img/WASENDER msg send section.png" alt="WaSender Software Preview" width="100%">
+<img src="./img/WASENDER all tools.png" alt="WaSender Software Preview" width="100%">
 
 <h3>💼 Who Can Use This?</h3>
 <ul>
